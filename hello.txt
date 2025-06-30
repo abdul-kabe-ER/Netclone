@@ -1,0 +1,1 @@
+This is a Netflix clone and responsive page download it and open in any editor to run it
